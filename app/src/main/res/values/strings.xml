@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="news">News</string>
+    <string name="favorites">Favorites</string>
+    <string name="add_to_favourites">Add to favourites</string>
+    <string name="remove_from_favorites">Remove from favorites</string>
+    <string name="search">Search</string>
+</resources>
